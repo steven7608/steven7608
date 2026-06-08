@@ -4,8 +4,10 @@
 [!IMPORTANT]
 Hey, I'm Steven An! 
 
-I am a recent grad from Virginia Tech who loves building computer vision and deep learning systems, especially the ones that applies to real-world problems.
+I am a recent grad from Virginia Tech who loves building computer vision and deep learning systems, especially the ones that applies to real-world problems. From fraud detection pipelines to edge-deployed agriculture monitoring tools. Currently seeking roles in AI/ML engineering.
+
 ---
+
 Some things I've worked on:
 * 🔍 [Fraud Detection](https://github.com/steven7608/ID-Fraud-Detection): With the rise of fraudulent claims, I utilize Deep Learning to detect fraudulent identification documents.
 * 🌿 [Plant Disease Detection](https://github.com/steven7608/Plant-Disease-Detection) Compared ResNet50, EfficientNetV2, MobileNetV3, and YOLOv8 against each other across 23 disease classes; YOLOv8 won with 99.8% accuracy at 6.4ms on the edge.
