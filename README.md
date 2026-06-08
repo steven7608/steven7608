@@ -6,6 +6,13 @@ I am a recent grad from Virginia Tech who loves building computer vision and dee
 
 Some things I've worked on:
 * 🔍 Fraud Detection: With the rise of fraudulent claims, I utilize Deep Learning to detect fraudulent identification documents.
+* 🌿 Plant Disease Detection: Compared ResNet50, EfficientNetV2, MobileNetV3, and YOLOv8 against each other across 23 disease classes; YOLOv8 won with 99.8% accuracy at 6.4ms on the edge.
+* 🐄 Cattle Weight Estimation: Built a vision-based weight estimator with instance segmentation and tested it on an real cattles.
+
+
+- [Real-Time Fraud Detection with ResNet-50](https://your-link)
+- [Plant Disease Detection for Edge Deployment](https://your-link)
+- [AI-Enhanced Cattle Weight Estimation]([https://your-link](https://github.com/steven7608/Smart-Farm-Cattle-Weight-Estimation.git))
 <!--
 **steven7608/steven7608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
