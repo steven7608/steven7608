@@ -3,6 +3,7 @@
 <blockquote>
 <p>Hey, I'm <strong>Steven An</strong>!</p>
 <p>I am a recent grad from Virginia Tech who loves building computer vision and deep learning systems, especially the ones that applies to real-world problems. From fraud detection pipelines to edge-deployed agriculture monitoring tools. Currently seeking roles in AI/ML engineering.</p>
+</blockquote>
 
 ---
 
