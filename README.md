@@ -12,7 +12,7 @@ Some things I've worked on:
 
 - [Real-Time Fraud Detection with ResNet-50](https://your-link)
 - [Plant Disease Detection for Edge Deployment](https://your-link)
-- [AI-Enhanced Cattle Weight Estimation]([https://github.com/steven7608/Smart-Farm-Cattle-Weight-Estimation.git])
+- [AI-Enhanced Cattle Weight Estimation](https://github.com/steven7608/Smart-Farm-Cattle-Weight-Estimation.git)
 <!--
 **steven7608/steven7608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
