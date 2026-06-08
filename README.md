@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hey, I'm Steven An!
+
+I am a recent grad from Virginia Tech who loves building computer vision and deep learning systems, especially the ones that applies to real-world problems.
+
+Some things I've worked on:
+* 🔍 Fraud Detection: With the rise of fraudulent claims, I utilize Deep Learning to detect fraudulent identification documents.
 <!--
 **steven7608/steven7608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
