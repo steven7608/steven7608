@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
+[!IMPORTANT]
 Hey, I'm Steven An! 
 
 I am a recent grad from Virginia Tech who loves building computer vision and deep learning systems, especially the ones that applies to real-world problems.
@@ -7,7 +8,7 @@ I am a recent grad from Virginia Tech who loves building computer vision and dee
 Some things I've worked on:
 * 🔍 [Fraud Detection](https://github.com/steven7608/ID-Fraud-Detection): With the rise of fraudulent claims, I utilize Deep Learning to detect fraudulent identification documents.
 * 🌿 [Plant Disease Detection](https://github.com/steven7608/Plant-Disease-Detection) Compared ResNet50, EfficientNetV2, MobileNetV3, and YOLOv8 against each other across 23 disease classes; YOLOv8 won with 99.8% accuracy at 6.4ms on the edge.
-* 🐄 [AI-Enhanced Cattle Weight Estimation](https://github.com/steven7608/Smart-Farm-Cattle-Weight-Estimation.git): Built a vision-based weight estimator with instance segmentation and tested it on an real cattles.;
+* 🐄 [AI-Enhanced Cattle Weight Estimation](https://github.com/steven7608/Smart-Farm-Cattle-Weight-Estimation.git): Built a vision-based weight estimator with instance segmentation and tested it on an real cattles.
 
 <!--
 **steven7608/steven7608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
