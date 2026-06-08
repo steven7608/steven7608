@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
+
 Hey, I'm Steven An! 
 
 I am a recent grad from Virginia Tech who loves building computer vision and deep learning systems, especially the ones that applies to real-world problems.
